@@ -27,6 +27,8 @@ from .const import (
 )
 from .coordinator import EweWattMonitorCoordinator
 
+PARALLEL_UPDATES = 0
+
 
 def _value(key: str) -> Callable[[dict[str, Any]], float | int | str | None]:
     def getter(data: dict[str, Any]) -> float | int | str | None:
@@ -175,7 +177,7 @@ async def async_setup_entry(
     async_add_entities: AddEntitiesCallback,
 ) -> None:
     """Set up EWE WattMonitor sensors."""
-    coordinator: EweWattMonitorCoordinator = hass.data[DOMAIN][entry.entry_id]
+    coordinator: EweWattMonitorCoordinator = entry.runtime_data
     async_add_entities(
         EweWattMonitorSensor(coordinator, entry, description) for description in SENSORS
     )

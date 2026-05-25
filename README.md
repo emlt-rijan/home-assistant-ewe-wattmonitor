@@ -10,7 +10,7 @@ Die Integration ist HACS-kompatibel und wird über die Home-Assistant-Oberfläch
 
 ## Status
 
-Version 0.1.4 ist eine erste veröffentlichbare Version. Die Integration nutzt die öffentlich erreichbare API des WattMonitors. Sie ist kein offizielles Produkt von EWE NETZ.
+Version 0.1.6 ist eine erste veröffentlichbare Version. Die Integration nutzt die öffentlich erreichbare API des WattMonitors. Sie ist kein offizielles Produkt von EWE NETZ.
 
 ## Unterstützte Gemeinden
 
@@ -40,6 +40,7 @@ Für Jork lautet der Gemeindeschlüssel `03359028`.
 Bei der Einrichtung kann nach Gemeinde, Landkreis oder Gemeindeschlüssel gesucht werden. Anschließend wird die passende Gemeinde aus einem gefilterten Dropdown ausgewählt. Die Integration speichert den amtlichen Gemeindeschlüssel intern und prüft ihn gegen die mitgelieferte Liste.
 
 Nach erfolgreicher Einrichtung werden Sensoren für die gewählte Gemeinde angelegt.
+Die Integration stellt Diagnosedaten für den eingerichteten Eintrag bereit, damit Verbindungs- und Datenprobleme in Home Assistant nachvollziehbar bleiben.
 
 ## Sensoren
 

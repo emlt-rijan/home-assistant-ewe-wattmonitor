@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+from asyncio import TimeoutError as AsyncioTimeoutError
 from dataclasses import dataclass
 from typing import Any
 
@@ -46,7 +47,7 @@ class EweWattMonitorClient:
                 timeout=20,
             ) as response:
                 response.raise_for_status()
-        except ClientError as err:
+        except (AsyncioTimeoutError, ClientError) as err:
             raise EweWattMonitorError(
                 f"Could not prepare WattMonitor municipality cookie: {err}"
             ) from err
@@ -68,7 +69,7 @@ class EweWattMonitorClient:
             ) as response:
                 response.raise_for_status()
                 payload = await response.json()
-        except ClientError as err:
+        except (AsyncioTimeoutError, ClientError) as err:
             raise EweWattMonitorError(f"Could not fetch WattMonitor data: {err}") from err
 
         if not isinstance(payload, list) or not payload:
