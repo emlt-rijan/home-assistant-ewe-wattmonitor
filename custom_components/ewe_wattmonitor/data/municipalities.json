@@ -1,0 +1,2135 @@
+{
+  "source": "wattmonitor.ewe-netz.de municipality routes plus digineo/gemeindeverzeichnis metadata",
+  "validated_at": "2026-05-25T18:14:11Z",
+  "count": 304,
+  "municipalities": [
+    {
+      "key": "03451001",
+      "slug": "apen",
+      "name": "Apen",
+      "county": "Ammerland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03451004",
+      "slug": "edewecht",
+      "name": "Edewecht",
+      "county": "Ammerland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03451005",
+      "slug": "rastede",
+      "name": "Rastede",
+      "county": "Ammerland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03451007",
+      "slug": "westerstede",
+      "name": "Westerstede, Stadt",
+      "county": "Ammerland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03451008",
+      "slug": "wiefelstede",
+      "name": "Wiefelstede",
+      "county": "Ammerland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452001",
+      "slug": "aurich",
+      "name": "Aurich, Stadt",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452002",
+      "slug": "baltrum",
+      "name": "Baltrum",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452003",
+      "slug": "berumbur",
+      "name": "Berumbur",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452027",
+      "slug": "dornum",
+      "name": "Dornum",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452006",
+      "slug": "grossefehn",
+      "name": "Großefehn",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452007",
+      "slug": "grossheide",
+      "name": "Großheide",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452008",
+      "slug": "hage",
+      "name": "Hage, Flecken",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452009",
+      "slug": "hagermarsch",
+      "name": "Hagermarsch",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452010",
+      "slug": "halbemond",
+      "name": "Halbemond",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452011",
+      "slug": "hinte",
+      "name": "Hinte",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452012",
+      "slug": "ihlow",
+      "name": "Ihlow",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452013",
+      "slug": "juist",
+      "name": "Juist",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452014",
+      "slug": "krummhoern",
+      "name": "Krummhörn",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452015",
+      "slug": "leezdorf",
+      "name": "Leezdorf",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452016",
+      "slug": "luetetsburg",
+      "name": "Lütetsburg",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452017",
+      "slug": "marienhafe",
+      "name": "Marienhafe, Flecken",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452019",
+      "slug": "norden",
+      "name": "Norden, Stadt",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452021",
+      "slug": "osteel",
+      "name": "Osteel",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452022",
+      "slug": "rechtsupweg",
+      "name": "Rechtsupweg",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452023",
+      "slug": "suedbrookmerland",
+      "name": "Südbrookmerland",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452024",
+      "slug": "upgant-schott",
+      "name": "Upgant-Schott",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452025",
+      "slug": "wiesmoor",
+      "name": "Wiesmoor, Stadt",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452026",
+      "slug": "wirdum",
+      "name": "Wirdum",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03453001",
+      "slug": "barssel",
+      "name": "Barßel",
+      "county": "Cloppenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03453002",
+      "slug": "boesel",
+      "name": "Bösel",
+      "county": "Cloppenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03453003",
+      "slug": "cappeln",
+      "name": "Cappeln (Oldenburg)",
+      "county": "Cloppenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03453004",
+      "slug": "cloppenburg",
+      "name": "Cloppenburg, Stadt",
+      "county": "Cloppenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03453005",
+      "slug": "emstek",
+      "name": "Emstek",
+      "county": "Cloppenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03453006",
+      "slug": "essen",
+      "name": "Essen (Oldenburg)",
+      "county": "Cloppenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03453007",
+      "slug": "friesoythe",
+      "name": "Friesoythe, Stadt",
+      "county": "Cloppenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03453008",
+      "slug": "garrel",
+      "name": "Garrel",
+      "county": "Cloppenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03453009",
+      "slug": "lastrup",
+      "name": "Lastrup",
+      "county": "Cloppenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03453010",
+      "slug": "lindern",
+      "name": "Lindern (Oldenburg)",
+      "county": "Cloppenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03453011",
+      "slug": "loeningen",
+      "name": "Löningen, Stadt",
+      "county": "Cloppenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03453012",
+      "slug": "molbergen",
+      "name": "Molbergen",
+      "county": "Cloppenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03453013",
+      "slug": "saterland",
+      "name": "Saterland",
+      "county": "Cloppenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352002",
+      "slug": "armstorf",
+      "name": "Armstorf",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352004",
+      "slug": "belum",
+      "name": "Belum",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352059",
+      "slug": "beverstedt",
+      "name": "Beverstedt",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352008",
+      "slug": "buelkau",
+      "name": "Bülkau",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352011",
+      "slug": "cuxhaven",
+      "name": "Cuxhaven, Stadt",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352020",
+      "slug": "hechthausen",
+      "name": "Hechthausen",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352022",
+      "slug": "hemmoor",
+      "name": "Hemmoor, Stadt",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352024",
+      "slug": "hollnseth",
+      "name": "Hollnseth",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352025",
+      "slug": "ihlienworth",
+      "name": "Ihlienworth",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352029",
+      "slug": "lamstedt",
+      "name": "Lamstedt",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352032",
+      "slug": "loxstedt",
+      "name": "Loxstedt",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352036",
+      "slug": "mittelstenahe",
+      "name": "Mittelstenahe",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352039",
+      "slug": "neuhaus-oste",
+      "name": "Neuhaus (Oste), Flecken",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352041",
+      "slug": "nordleda",
+      "name": "Nordleda",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352043",
+      "slug": "odisheim",
+      "name": "Odisheim",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352044",
+      "slug": "osten",
+      "name": "Osten",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352045",
+      "slug": "osterbruch",
+      "name": "Osterbruch",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352046",
+      "slug": "otterndorf",
+      "name": "Otterndorf, Stadt",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352050",
+      "slug": "schiffdorf",
+      "name": "Schiffdorf",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352051",
+      "slug": "steinau",
+      "name": "Steinau",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352052",
+      "slug": "stinstedt",
+      "name": "Stinstedt",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352055",
+      "slug": "wanna",
+      "name": "Wanna",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352056",
+      "slug": "wingst",
+      "name": "Wingst",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03401000",
+      "slug": "delmenhorst",
+      "name": "Delmenhorst, Stadt",
+      "county": "Delmenhorst, Stadt",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03402000",
+      "slug": "emden",
+      "name": "Emden, Stadt",
+      "county": "Emden, Stadt",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454004",
+      "slug": "bockhorst",
+      "name": "Bockhorst",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454006",
+      "slug": "breddenberg",
+      "name": "Breddenberg",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454005",
+      "slug": "boerger",
+      "name": "Börger",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454007",
+      "slug": "dersum",
+      "name": "Dersum",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454008",
+      "slug": "doerpen",
+      "name": "Dörpen",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454011",
+      "slug": "esterwegen",
+      "name": "Esterwegen",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454013",
+      "slug": "fresenburg",
+      "name": "Fresenburg",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454018",
+      "slug": "haren",
+      "name": "Haren (Ems), Stadt",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454019",
+      "slug": "haseluenne",
+      "name": "Haselünne, Stadt",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454020",
+      "slug": "heede",
+      "name": "Heede",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454021",
+      "slug": "herzlake",
+      "name": "Herzlake",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454022",
+      "slug": "hilkenbrook",
+      "name": "Hilkenbrook",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454023",
+      "slug": "hueven",
+      "name": "Hüven",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454025",
+      "slug": "kluse",
+      "name": "Kluse",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454027",
+      "slug": "lahn",
+      "name": "Lahn",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454029",
+      "slug": "lathen",
+      "name": "Lathen",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454030",
+      "slug": "lehe",
+      "name": "Lehe",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454033",
+      "slug": "lorup",
+      "name": "Lorup",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454026",
+      "slug": "laehden",
+      "name": "Lähden",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454035",
+      "slug": "meppen",
+      "name": "Meppen, Stadt",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454037",
+      "slug": "neuboerger",
+      "name": "Neubörger",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454038",
+      "slug": "neulehe",
+      "name": "Neulehe",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454039",
+      "slug": "niederlangen",
+      "name": "Niederlangen",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454040",
+      "slug": "oberlangen",
+      "name": "Oberlangen",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454041",
+      "slug": "papenburg",
+      "name": "Papenburg, Stadt",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454042",
+      "slug": "rastdorf",
+      "name": "Rastdorf",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454043",
+      "slug": "renkenberge",
+      "name": "Renkenberge",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454044",
+      "slug": "rhede",
+      "name": "Rhede (Ems)",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454048",
+      "slug": "spahnharrenstaette",
+      "name": "Spahnharrenstätte",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454050",
+      "slug": "stavern",
+      "name": "Stavern",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454051",
+      "slug": "surwold",
+      "name": "Surwold",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454052",
+      "slug": "sustrum",
+      "name": "Sustrum",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454047",
+      "slug": "soegel",
+      "name": "Sögel",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454055",
+      "slug": "vrees",
+      "name": "Vrees",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454056",
+      "slug": "walchum",
+      "name": "Walchum",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454057",
+      "slug": "werlte",
+      "name": "Werlte",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454058",
+      "slug": "werpeloh",
+      "name": "Werpeloh",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454060",
+      "slug": "wippingen",
+      "name": "Wippingen",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03455025",
+      "slug": "bockhorn",
+      "name": "Bockhorn",
+      "county": "Friesland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03455007",
+      "slug": "jever",
+      "name": "Jever, Stadt",
+      "county": "Friesland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03455014",
+      "slug": "sande",
+      "name": "Sande",
+      "county": "Friesland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03455015",
+      "slug": "schortens",
+      "name": "Schortens, Stadt",
+      "county": "Friesland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03455026",
+      "slug": "varel",
+      "name": "Varel, Stadt",
+      "county": "Friesland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03455020",
+      "slug": "wangerland",
+      "name": "Wangerland",
+      "county": "Friesland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03455021",
+      "slug": "wangerooge",
+      "name": "Wangerooge, Nordseebad",
+      "county": "Friesland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03455027",
+      "slug": "zetel",
+      "name": "Zetel",
+      "county": "Friesland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353001",
+      "slug": "appel",
+      "name": "Appel",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353003",
+      "slug": "bendestorf",
+      "name": "Bendestorf",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353004",
+      "slug": "brackel",
+      "name": "Brackel",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353008",
+      "slug": "drestedt",
+      "name": "Drestedt",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353009",
+      "slug": "egestorf",
+      "name": "Egestorf",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353014",
+      "slug": "halvesbostel",
+      "name": "Halvesbostel",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353015",
+      "slug": "handeloh",
+      "name": "Handeloh",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353016",
+      "slug": "hanstedt",
+      "name": "Hanstedt",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353017",
+      "slug": "harmstorf",
+      "name": "Harmstorf",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353018",
+      "slug": "heidenau",
+      "name": "Heidenau",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353019",
+      "slug": "hollenstedt",
+      "name": "Hollenstedt",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353020",
+      "slug": "jesteburg",
+      "name": "Jesteburg",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353021",
+      "slug": "kakenstorf",
+      "name": "Kakenstorf",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353022",
+      "slug": "koenigsmoor",
+      "name": "Königsmoor",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353024",
+      "slug": "marxen",
+      "name": "Marxen",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353025",
+      "slug": "moisburg",
+      "name": "Moisburg",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353026",
+      "slug": "neu-wulmstorf",
+      "name": "Neu Wulmstorf",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353027",
+      "slug": "otter",
+      "name": "Otter",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353028",
+      "slug": "regesbostel",
+      "name": "Regesbostel",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353029",
+      "slug": "rosengarten",
+      "name": "Rosengarten",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353031",
+      "slug": "seevetal",
+      "name": "Seevetal",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353032",
+      "slug": "stelle",
+      "name": "Stelle",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353035",
+      "slug": "tostedt",
+      "name": "Tostedt",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353036",
+      "slug": "undeloh",
+      "name": "Undeloh",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353038",
+      "slug": "welle",
+      "name": "Welle",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353039",
+      "slug": "wenzendorf",
+      "name": "Wenzendorf",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353041",
+      "slug": "wistedt",
+      "name": "Wistedt",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353042",
+      "slug": "wulfsen",
+      "name": "Wulfsen",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03457003",
+      "slug": "brinkum",
+      "name": "Brinkum",
+      "county": "Leer",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03457024",
+      "slug": "bunde",
+      "name": "Bunde",
+      "county": "Leer",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03457006",
+      "slug": "detern",
+      "name": "Detern, Flecken",
+      "county": "Leer",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03457008",
+      "slug": "filsum",
+      "name": "Filsum",
+      "county": "Leer",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03457009",
+      "slug": "firrel",
+      "name": "Firrel",
+      "county": "Leer",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03457010",
+      "slug": "hesel",
+      "name": "Hesel",
+      "county": "Leer",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03457011",
+      "slug": "holtland",
+      "name": "Holtland",
+      "county": "Leer",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03457012",
+      "slug": "jemgum",
+      "name": "Jemgum",
+      "county": "Leer",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03457013",
+      "slug": "leer",
+      "name": "Leer (Ostfriesland), Stadt",
+      "county": "Leer",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03457014",
+      "slug": "moormerland",
+      "name": "Moormerland",
+      "county": "Leer",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03457015",
+      "slug": "neukamperfehn",
+      "name": "Neukamperfehn",
+      "county": "Leer",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03457016",
+      "slug": "nortmoor",
+      "name": "Nortmoor",
+      "county": "Leer",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03457017",
+      "slug": "ostrhauderfehn",
+      "name": "Ostrhauderfehn",
+      "county": "Leer",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03457018",
+      "slug": "rhauderfehn",
+      "name": "Rhauderfehn",
+      "county": "Leer",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03457019",
+      "slug": "schwerinsdorf",
+      "name": "Schwerinsdorf",
+      "county": "Leer",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03457020",
+      "slug": "uplengen",
+      "name": "Uplengen",
+      "county": "Leer",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03457021",
+      "slug": "weener",
+      "name": "Weener, Stadt",
+      "county": "Leer",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03457022",
+      "slug": "westoverledingen",
+      "name": "Westoverledingen",
+      "county": "Leer",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03458003",
+      "slug": "doetlingen",
+      "name": "Dötlingen",
+      "county": "Oldenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03458005",
+      "slug": "ganderkesee",
+      "name": "Ganderkesee",
+      "county": "Oldenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03458007",
+      "slug": "grossenkneten",
+      "name": "Großenkneten",
+      "county": "Oldenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03458009",
+      "slug": "hatten",
+      "name": "Hatten",
+      "county": "Oldenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03458010",
+      "slug": "hude",
+      "name": "Hude (Oldb)",
+      "county": "Oldenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03458013",
+      "slug": "wardenburg",
+      "name": "Wardenburg",
+      "county": "Oldenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03458014",
+      "slug": "wildeshausen",
+      "name": "Wildeshausen, Stadt",
+      "county": "Oldenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03403000",
+      "slug": "oldenburg",
+      "name": "Oldenburg (Oldenburg), Stadt",
+      "county": "Oldenburg (Oldenburg), Stadt",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03459030",
+      "slug": "quakenbrueck",
+      "name": "Quakenbrück, Stadt",
+      "county": "Osnabrück",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03356001",
+      "slug": "axstedt",
+      "name": "Axstedt",
+      "county": "Osterholz",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03356002",
+      "slug": "grasberg",
+      "name": "Grasberg",
+      "county": "Osterholz",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03356003",
+      "slug": "hambergen",
+      "name": "Hambergen",
+      "county": "Osterholz",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03356004",
+      "slug": "holste",
+      "name": "Holste",
+      "county": "Osterholz",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03356006",
+      "slug": "luebberstedt",
+      "name": "Lübberstedt",
+      "county": "Osterholz",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03356009",
+      "slug": "schwanewede",
+      "name": "Schwanewede",
+      "county": "Osterholz",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03356010",
+      "slug": "vollersode",
+      "name": "Vollersode",
+      "county": "Osterholz",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03356011",
+      "slug": "worpswede",
+      "name": "Worpswede",
+      "county": "Osterholz",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357001",
+      "slug": "ahausen",
+      "name": "Ahausen",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357002",
+      "slug": "alfstedt",
+      "name": "Alfstedt",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357003",
+      "slug": "anderlingen",
+      "name": "Anderlingen",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357004",
+      "slug": "basdahl",
+      "name": "Basdahl",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357006",
+      "slug": "bothel",
+      "name": "Bothel",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357007",
+      "slug": "breddorf",
+      "name": "Breddorf",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357008",
+      "slug": "bremervoerde",
+      "name": "Bremervörde, Stadt",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357009",
+      "slug": "brockel",
+      "name": "Brockel",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357005",
+      "slug": "boetersen",
+      "name": "Bötersen",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357010",
+      "slug": "buelstedt",
+      "name": "Bülstedt",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357011",
+      "slug": "deinstedt",
+      "name": "Deinstedt",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357012",
+      "slug": "ebersdorf",
+      "name": "Ebersdorf",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357014",
+      "slug": "farven",
+      "name": "Farven",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357015",
+      "slug": "fintel",
+      "name": "Fintel",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357016",
+      "slug": "gnarrenburg",
+      "name": "Gnarrenburg",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357018",
+      "slug": "gyhum",
+      "name": "Gyhum",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357019",
+      "slug": "hamersen",
+      "name": "Hamersen",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357020",
+      "slug": "hassendorf",
+      "name": "Hassendorf",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357021",
+      "slug": "heeslingen",
+      "name": "Heeslingen",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357022",
+      "slug": "hellwege",
+      "name": "Hellwege",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357023",
+      "slug": "helvesiek",
+      "name": "Helvesiek",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357024",
+      "slug": "hemsbuende",
+      "name": "Hemsbünde",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357025",
+      "slug": "hemslingen",
+      "name": "Hemslingen",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357026",
+      "slug": "hepstedt",
+      "name": "Hepstedt",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357027",
+      "slug": "hipstedt",
+      "name": "Hipstedt",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357028",
+      "slug": "horstedt",
+      "name": "Horstedt",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357029",
+      "slug": "kalbe",
+      "name": "Kalbe",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357030",
+      "slug": "kirchtimke",
+      "name": "Kirchtimke",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357031",
+      "slug": "kirchwalsede",
+      "name": "Kirchwalsede",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357033",
+      "slug": "lauenbrueck",
+      "name": "Lauenbrück",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357034",
+      "slug": "lengenbostel",
+      "name": "Lengenbostel",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357035",
+      "slug": "oerel",
+      "name": "Oerel",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357036",
+      "slug": "ostereistedt",
+      "name": "Ostereistedt",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357037",
+      "slug": "reessum",
+      "name": "Reeßum",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357038",
+      "slug": "rhade",
+      "name": "Rhade",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357040",
+      "slug": "sandbostel",
+      "name": "Sandbostel",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357041",
+      "slug": "scheessel",
+      "name": "Scheeßel",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357042",
+      "slug": "seedorf",
+      "name": "Seedorf",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357043",
+      "slug": "selsingen",
+      "name": "Selsingen",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357044",
+      "slug": "sittensen",
+      "name": "Sittensen",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357045",
+      "slug": "sottrum",
+      "name": "Sottrum",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357046",
+      "slug": "stemmen",
+      "name": "Stemmen",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357047",
+      "slug": "tarmstedt",
+      "name": "Tarmstedt",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357048",
+      "slug": "tiste",
+      "name": "Tiste",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357049",
+      "slug": "vahlde",
+      "name": "Vahlde",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357050",
+      "slug": "vierden",
+      "name": "Vierden",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357052",
+      "slug": "vorwerk",
+      "name": "Vorwerk",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357053",
+      "slug": "westertimke",
+      "name": "Westertimke",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357054",
+      "slug": "westerwalsede",
+      "name": "Westerwalsede",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357055",
+      "slug": "wilstedt",
+      "name": "Wilstedt",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357056",
+      "slug": "wohnste",
+      "name": "Wohnste",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359001",
+      "slug": "agathenburg",
+      "name": "Agathenburg",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359002",
+      "slug": "ahlerstedt",
+      "name": "Ahlerstedt",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359004",
+      "slug": "balje",
+      "name": "Balje",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359005",
+      "slug": "bargstedt",
+      "name": "Bargstedt",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359006",
+      "slug": "beckdorf",
+      "name": "Beckdorf",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359007",
+      "slug": "bliedersdorf",
+      "name": "Bliedersdorf",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359008",
+      "slug": "brest",
+      "name": "Brest",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359009",
+      "slug": "burweg",
+      "name": "Burweg",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359011",
+      "slug": "deinste",
+      "name": "Deinste",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359012",
+      "slug": "dollern",
+      "name": "Dollern",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359013",
+      "slug": "drochtersen",
+      "name": "Drochtersen",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359014",
+      "slug": "duedenbuettel",
+      "name": "Düdenbüttel",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359015",
+      "slug": "engelschoff",
+      "name": "Engelschoff",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359016",
+      "slug": "estorf",
+      "name": "Estorf",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359017",
+      "slug": "fredenbeck",
+      "name": "Fredenbeck",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359018",
+      "slug": "freiburg-elbe",
+      "name": "Freiburg (Elbe), Flecken",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359019",
+      "slug": "grossenwoerden",
+      "name": "Großenwörden",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359020",
+      "slug": "gruenendeich",
+      "name": "Grünendeich",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359021",
+      "slug": "guderhandviertel",
+      "name": "Guderhandviertel",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359022",
+      "slug": "hammah",
+      "name": "Hammah",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359023",
+      "slug": "harsefeld",
+      "name": "Harsefeld, Flecken",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359024",
+      "slug": "heinbockel",
+      "name": "Heinbockel",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359025",
+      "slug": "himmelpforten",
+      "name": "Himmelpforten",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359026",
+      "slug": "hollern-twielenfleth",
+      "name": "Hollern-Twielenfleth",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359027",
+      "slug": "horneburg",
+      "name": "Horneburg, Flecken",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359028",
+      "slug": "jork",
+      "name": "Jork",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359029",
+      "slug": "kranenburg",
+      "name": "Kranenburg",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359030",
+      "slug": "krummendeich",
+      "name": "Krummendeich",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359031",
+      "slug": "kutenholz",
+      "name": "Kutenholz",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359032",
+      "slug": "mittelnkirchen",
+      "name": "Mittelnkirchen",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359034",
+      "slug": "nottensdorf",
+      "name": "Nottensdorf",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359035",
+      "slug": "oederquart",
+      "name": "Oederquart",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359036",
+      "slug": "oldendorf",
+      "name": "Oldendorf",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359037",
+      "slug": "sauensiek",
+      "name": "Sauensiek",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359039",
+      "slug": "steinkirchen",
+      "name": "Steinkirchen",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359040",
+      "slug": "wischhafen",
+      "name": "Wischhafen",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03460001",
+      "slug": "bakum",
+      "name": "Bakum",
+      "county": "Vechta",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03460003",
+      "slug": "dinklage",
+      "name": "Dinklage, Stadt",
+      "county": "Vechta",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03460004",
+      "slug": "goldenstedt",
+      "name": "Goldenstedt",
+      "county": "Vechta",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03460005",
+      "slug": "holdorf",
+      "name": "Holdorf",
+      "county": "Vechta",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03460006",
+      "slug": "lohne",
+      "name": "Lohne (Oldenburg), Stadt",
+      "county": "Vechta",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03460007",
+      "slug": "neuenkirchen-voerden",
+      "name": "Neuenkirchen-Vörden",
+      "county": "Vechta",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03460008",
+      "slug": "steinfeld",
+      "name": "Steinfeld (Oldenburg)",
+      "county": "Vechta",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03460009",
+      "slug": "vechta",
+      "name": "Vechta, Stadt",
+      "county": "Vechta",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03460010",
+      "slug": "visbek",
+      "name": "Visbek",
+      "county": "Vechta",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03361002",
+      "slug": "blender",
+      "name": "Blender",
+      "county": "Verden",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03361005",
+      "slug": "kirchlinteln",
+      "name": "Kirchlinteln",
+      "county": "Verden",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03361006",
+      "slug": "langwedel",
+      "name": "Langwedel, Flecken",
+      "county": "Verden",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03361008",
+      "slug": "ottersberg",
+      "name": "Ottersberg, Flecken",
+      "county": "Verden",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03361013",
+      "slug": "thedinghausen",
+      "name": "Thedinghausen",
+      "county": "Verden",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03461001",
+      "slug": "berne",
+      "name": "Berne",
+      "county": "Wesermarsch",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03461002",
+      "slug": "brake",
+      "name": "Brake (Unterweser), Stadt",
+      "county": "Wesermarsch",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03461003",
+      "slug": "butjadingen",
+      "name": "Butjadingen",
+      "county": "Wesermarsch",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03461004",
+      "slug": "elsfleth",
+      "name": "Elsfleth, Stadt",
+      "county": "Wesermarsch",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03461005",
+      "slug": "jade",
+      "name": "Jade",
+      "county": "Wesermarsch",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03461006",
+      "slug": "lemwerder",
+      "name": "Lemwerder",
+      "county": "Wesermarsch",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03461007",
+      "slug": "nordenham",
+      "name": "Nordenham, Stadt",
+      "county": "Wesermarsch",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03461008",
+      "slug": "ovelgoenne",
+      "name": "Ovelgönne",
+      "county": "Wesermarsch",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03461009",
+      "slug": "stadland",
+      "name": "Stadland",
+      "county": "Wesermarsch",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03462001",
+      "slug": "blomberg",
+      "name": "Blomberg",
+      "county": "Wittmund",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03462002",
+      "slug": "dunum",
+      "name": "Dunum",
+      "county": "Wittmund",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03462003",
+      "slug": "esens",
+      "name": "Esens, Stadt",
+      "county": "Wittmund",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03462004",
+      "slug": "eversmeer",
+      "name": "Eversmeer",
+      "county": "Wittmund",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03462005",
+      "slug": "friedeburg",
+      "name": "Friedeburg",
+      "county": "Wittmund",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03462006",
+      "slug": "holtgast",
+      "name": "Holtgast",
+      "county": "Wittmund",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03462007",
+      "slug": "langeoog",
+      "name": "Langeoog",
+      "county": "Wittmund",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03462008",
+      "slug": "moorweg",
+      "name": "Moorweg",
+      "county": "Wittmund",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03462009",
+      "slug": "nenndorf",
+      "name": "Nenndorf",
+      "county": "Wittmund",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03462010",
+      "slug": "neuharlingersiel",
+      "name": "Neuharlingersiel",
+      "county": "Wittmund",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03462011",
+      "slug": "neuschoo",
+      "name": "Neuschoo",
+      "county": "Wittmund",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03462012",
+      "slug": "ochtersum",
+      "name": "Ochtersum",
+      "county": "Wittmund",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03462013",
+      "slug": "schweindorf",
+      "name": "Schweindorf",
+      "county": "Wittmund",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03462014",
+      "slug": "spiekeroog",
+      "name": "Spiekeroog",
+      "county": "Wittmund",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03462015",
+      "slug": "stedesdorf",
+      "name": "Stedesdorf",
+      "county": "Wittmund",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03462016",
+      "slug": "utarp",
+      "name": "Utarp",
+      "county": "Wittmund",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03462017",
+      "slug": "werdum",
+      "name": "Werdum",
+      "county": "Wittmund",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03462018",
+      "slug": "westerholt",
+      "name": "Westerholt",
+      "county": "Wittmund",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03462019",
+      "slug": "wittmund",
+      "name": "Wittmund, Stadt",
+      "county": "Wittmund",
+      "state": "Niedersachsen"
+    }
+  ]
+}

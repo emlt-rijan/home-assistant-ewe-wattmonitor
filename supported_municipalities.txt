@@ -1,0 +1,313 @@
+# Unterstützte Gemeinden für EWE WattMonitor
+
+Anzahl: 304
+
+Gebiet: EWE-NETZ-Gebiet in Niedersachsen
+
+Format: Gemeindeschlüssel - Gemeinde - Landkreis - Bundesland
+
+
+03451001 - Apen - Ammerland - Niedersachsen
+03451004 - Edewecht - Ammerland - Niedersachsen
+03451005 - Rastede - Ammerland - Niedersachsen
+03451007 - Westerstede, Stadt - Ammerland - Niedersachsen
+03451008 - Wiefelstede - Ammerland - Niedersachsen
+03452001 - Aurich, Stadt - Aurich - Niedersachsen
+03452002 - Baltrum - Aurich - Niedersachsen
+03452003 - Berumbur - Aurich - Niedersachsen
+03452027 - Dornum - Aurich - Niedersachsen
+03452006 - Großefehn - Aurich - Niedersachsen
+03452007 - Großheide - Aurich - Niedersachsen
+03452008 - Hage, Flecken - Aurich - Niedersachsen
+03452009 - Hagermarsch - Aurich - Niedersachsen
+03452010 - Halbemond - Aurich - Niedersachsen
+03452011 - Hinte - Aurich - Niedersachsen
+03452012 - Ihlow - Aurich - Niedersachsen
+03452013 - Juist - Aurich - Niedersachsen
+03452014 - Krummhörn - Aurich - Niedersachsen
+03452015 - Leezdorf - Aurich - Niedersachsen
+03452016 - Lütetsburg - Aurich - Niedersachsen
+03452017 - Marienhafe, Flecken - Aurich - Niedersachsen
+03452019 - Norden, Stadt - Aurich - Niedersachsen
+03452021 - Osteel - Aurich - Niedersachsen
+03452022 - Rechtsupweg - Aurich - Niedersachsen
+03452023 - Südbrookmerland - Aurich - Niedersachsen
+03452024 - Upgant-Schott - Aurich - Niedersachsen
+03452025 - Wiesmoor, Stadt - Aurich - Niedersachsen
+03452026 - Wirdum - Aurich - Niedersachsen
+03453001 - Barßel - Cloppenburg - Niedersachsen
+03453002 - Bösel - Cloppenburg - Niedersachsen
+03453003 - Cappeln (Oldenburg) - Cloppenburg - Niedersachsen
+03453004 - Cloppenburg, Stadt - Cloppenburg - Niedersachsen
+03453005 - Emstek - Cloppenburg - Niedersachsen
+03453006 - Essen (Oldenburg) - Cloppenburg - Niedersachsen
+03453007 - Friesoythe, Stadt - Cloppenburg - Niedersachsen
+03453008 - Garrel - Cloppenburg - Niedersachsen
+03453009 - Lastrup - Cloppenburg - Niedersachsen
+03453010 - Lindern (Oldenburg) - Cloppenburg - Niedersachsen
+03453011 - Löningen, Stadt - Cloppenburg - Niedersachsen
+03453012 - Molbergen - Cloppenburg - Niedersachsen
+03453013 - Saterland - Cloppenburg - Niedersachsen
+03352002 - Armstorf - Cuxhaven - Niedersachsen
+03352004 - Belum - Cuxhaven - Niedersachsen
+03352059 - Beverstedt - Cuxhaven - Niedersachsen
+03352008 - Bülkau - Cuxhaven - Niedersachsen
+03352011 - Cuxhaven, Stadt - Cuxhaven - Niedersachsen
+03352020 - Hechthausen - Cuxhaven - Niedersachsen
+03352022 - Hemmoor, Stadt - Cuxhaven - Niedersachsen
+03352024 - Hollnseth - Cuxhaven - Niedersachsen
+03352025 - Ihlienworth - Cuxhaven - Niedersachsen
+03352029 - Lamstedt - Cuxhaven - Niedersachsen
+03352032 - Loxstedt - Cuxhaven - Niedersachsen
+03352036 - Mittelstenahe - Cuxhaven - Niedersachsen
+03352039 - Neuhaus (Oste), Flecken - Cuxhaven - Niedersachsen
+03352041 - Nordleda - Cuxhaven - Niedersachsen
+03352043 - Odisheim - Cuxhaven - Niedersachsen
+03352044 - Osten - Cuxhaven - Niedersachsen
+03352045 - Osterbruch - Cuxhaven - Niedersachsen
+03352046 - Otterndorf, Stadt - Cuxhaven - Niedersachsen
+03352050 - Schiffdorf - Cuxhaven - Niedersachsen
+03352051 - Steinau - Cuxhaven - Niedersachsen
+03352052 - Stinstedt - Cuxhaven - Niedersachsen
+03352055 - Wanna - Cuxhaven - Niedersachsen
+03352056 - Wingst - Cuxhaven - Niedersachsen
+03401000 - Delmenhorst, Stadt - Delmenhorst, Stadt - Niedersachsen
+03402000 - Emden, Stadt - Emden, Stadt - Niedersachsen
+03454004 - Bockhorst - Emsland - Niedersachsen
+03454006 - Breddenberg - Emsland - Niedersachsen
+03454005 - Börger - Emsland - Niedersachsen
+03454007 - Dersum - Emsland - Niedersachsen
+03454008 - Dörpen - Emsland - Niedersachsen
+03454011 - Esterwegen - Emsland - Niedersachsen
+03454013 - Fresenburg - Emsland - Niedersachsen
+03454018 - Haren (Ems), Stadt - Emsland - Niedersachsen
+03454019 - Haselünne, Stadt - Emsland - Niedersachsen
+03454020 - Heede - Emsland - Niedersachsen
+03454021 - Herzlake - Emsland - Niedersachsen
+03454022 - Hilkenbrook - Emsland - Niedersachsen
+03454023 - Hüven - Emsland - Niedersachsen
+03454025 - Kluse - Emsland - Niedersachsen
+03454027 - Lahn - Emsland - Niedersachsen
+03454029 - Lathen - Emsland - Niedersachsen
+03454030 - Lehe - Emsland - Niedersachsen
+03454033 - Lorup - Emsland - Niedersachsen
+03454026 - Lähden - Emsland - Niedersachsen
+03454035 - Meppen, Stadt - Emsland - Niedersachsen
+03454037 - Neubörger - Emsland - Niedersachsen
+03454038 - Neulehe - Emsland - Niedersachsen
+03454039 - Niederlangen - Emsland - Niedersachsen
+03454040 - Oberlangen - Emsland - Niedersachsen
+03454041 - Papenburg, Stadt - Emsland - Niedersachsen
+03454042 - Rastdorf - Emsland - Niedersachsen
+03454043 - Renkenberge - Emsland - Niedersachsen
+03454044 - Rhede (Ems) - Emsland - Niedersachsen
+03454048 - Spahnharrenstätte - Emsland - Niedersachsen
+03454050 - Stavern - Emsland - Niedersachsen
+03454051 - Surwold - Emsland - Niedersachsen
+03454052 - Sustrum - Emsland - Niedersachsen
+03454047 - Sögel - Emsland - Niedersachsen
+03454055 - Vrees - Emsland - Niedersachsen
+03454056 - Walchum - Emsland - Niedersachsen
+03454057 - Werlte - Emsland - Niedersachsen
+03454058 - Werpeloh - Emsland - Niedersachsen
+03454060 - Wippingen - Emsland - Niedersachsen
+03455025 - Bockhorn - Friesland - Niedersachsen
+03455007 - Jever, Stadt - Friesland - Niedersachsen
+03455014 - Sande - Friesland - Niedersachsen
+03455015 - Schortens, Stadt - Friesland - Niedersachsen
+03455026 - Varel, Stadt - Friesland - Niedersachsen
+03455020 - Wangerland - Friesland - Niedersachsen
+03455021 - Wangerooge, Nordseebad - Friesland - Niedersachsen
+03455027 - Zetel - Friesland - Niedersachsen
+03353001 - Appel - Harburg - Niedersachsen
+03353003 - Bendestorf - Harburg - Niedersachsen
+03353004 - Brackel - Harburg - Niedersachsen
+03353008 - Drestedt - Harburg - Niedersachsen
+03353009 - Egestorf - Harburg - Niedersachsen
+03353014 - Halvesbostel - Harburg - Niedersachsen
+03353015 - Handeloh - Harburg - Niedersachsen
+03353016 - Hanstedt - Harburg - Niedersachsen
+03353017 - Harmstorf - Harburg - Niedersachsen
+03353018 - Heidenau - Harburg - Niedersachsen
+03353019 - Hollenstedt - Harburg - Niedersachsen
+03353020 - Jesteburg - Harburg - Niedersachsen
+03353021 - Kakenstorf - Harburg - Niedersachsen
+03353022 - Königsmoor - Harburg - Niedersachsen
+03353024 - Marxen - Harburg - Niedersachsen
+03353025 - Moisburg - Harburg - Niedersachsen
+03353026 - Neu Wulmstorf - Harburg - Niedersachsen
+03353027 - Otter - Harburg - Niedersachsen
+03353028 - Regesbostel - Harburg - Niedersachsen
+03353029 - Rosengarten - Harburg - Niedersachsen
+03353031 - Seevetal - Harburg - Niedersachsen
+03353032 - Stelle - Harburg - Niedersachsen
+03353035 - Tostedt - Harburg - Niedersachsen
+03353036 - Undeloh - Harburg - Niedersachsen
+03353038 - Welle - Harburg - Niedersachsen
+03353039 - Wenzendorf - Harburg - Niedersachsen
+03353041 - Wistedt - Harburg - Niedersachsen
+03353042 - Wulfsen - Harburg - Niedersachsen
+03457003 - Brinkum - Leer - Niedersachsen
+03457024 - Bunde - Leer - Niedersachsen
+03457006 - Detern, Flecken - Leer - Niedersachsen
+03457008 - Filsum - Leer - Niedersachsen
+03457009 - Firrel - Leer - Niedersachsen
+03457010 - Hesel - Leer - Niedersachsen
+03457011 - Holtland - Leer - Niedersachsen
+03457012 - Jemgum - Leer - Niedersachsen
+03457013 - Leer (Ostfriesland), Stadt - Leer - Niedersachsen
+03457014 - Moormerland - Leer - Niedersachsen
+03457015 - Neukamperfehn - Leer - Niedersachsen
+03457016 - Nortmoor - Leer - Niedersachsen
+03457017 - Ostrhauderfehn - Leer - Niedersachsen
+03457018 - Rhauderfehn - Leer - Niedersachsen
+03457019 - Schwerinsdorf - Leer - Niedersachsen
+03457020 - Uplengen - Leer - Niedersachsen
+03457021 - Weener, Stadt - Leer - Niedersachsen
+03457022 - Westoverledingen - Leer - Niedersachsen
+03458003 - Dötlingen - Oldenburg - Niedersachsen
+03458005 - Ganderkesee - Oldenburg - Niedersachsen
+03458007 - Großenkneten - Oldenburg - Niedersachsen
+03458009 - Hatten - Oldenburg - Niedersachsen
+03458010 - Hude (Oldb) - Oldenburg - Niedersachsen
+03458013 - Wardenburg - Oldenburg - Niedersachsen
+03458014 - Wildeshausen, Stadt - Oldenburg - Niedersachsen
+03403000 - Oldenburg (Oldenburg), Stadt - Oldenburg (Oldenburg), Stadt - Niedersachsen
+03459030 - Quakenbrück, Stadt - Osnabrück - Niedersachsen
+03356001 - Axstedt - Osterholz - Niedersachsen
+03356002 - Grasberg - Osterholz - Niedersachsen
+03356003 - Hambergen - Osterholz - Niedersachsen
+03356004 - Holste - Osterholz - Niedersachsen
+03356006 - Lübberstedt - Osterholz - Niedersachsen
+03356009 - Schwanewede - Osterholz - Niedersachsen
+03356010 - Vollersode - Osterholz - Niedersachsen
+03356011 - Worpswede - Osterholz - Niedersachsen
+03357001 - Ahausen - Rotenburg (Wümme) - Niedersachsen
+03357002 - Alfstedt - Rotenburg (Wümme) - Niedersachsen
+03357003 - Anderlingen - Rotenburg (Wümme) - Niedersachsen
+03357004 - Basdahl - Rotenburg (Wümme) - Niedersachsen
+03357006 - Bothel - Rotenburg (Wümme) - Niedersachsen
+03357007 - Breddorf - Rotenburg (Wümme) - Niedersachsen
+03357008 - Bremervörde, Stadt - Rotenburg (Wümme) - Niedersachsen
+03357009 - Brockel - Rotenburg (Wümme) - Niedersachsen
+03357005 - Bötersen - Rotenburg (Wümme) - Niedersachsen
+03357010 - Bülstedt - Rotenburg (Wümme) - Niedersachsen
+03357011 - Deinstedt - Rotenburg (Wümme) - Niedersachsen
+03357012 - Ebersdorf - Rotenburg (Wümme) - Niedersachsen
+03357014 - Farven - Rotenburg (Wümme) - Niedersachsen
+03357015 - Fintel - Rotenburg (Wümme) - Niedersachsen
+03357016 - Gnarrenburg - Rotenburg (Wümme) - Niedersachsen
+03357018 - Gyhum - Rotenburg (Wümme) - Niedersachsen
+03357019 - Hamersen - Rotenburg (Wümme) - Niedersachsen
+03357020 - Hassendorf - Rotenburg (Wümme) - Niedersachsen
+03357021 - Heeslingen - Rotenburg (Wümme) - Niedersachsen
+03357022 - Hellwege - Rotenburg (Wümme) - Niedersachsen
+03357023 - Helvesiek - Rotenburg (Wümme) - Niedersachsen
+03357024 - Hemsbünde - Rotenburg (Wümme) - Niedersachsen
+03357025 - Hemslingen - Rotenburg (Wümme) - Niedersachsen
+03357026 - Hepstedt - Rotenburg (Wümme) - Niedersachsen
+03357027 - Hipstedt - Rotenburg (Wümme) - Niedersachsen
+03357028 - Horstedt - Rotenburg (Wümme) - Niedersachsen
+03357029 - Kalbe - Rotenburg (Wümme) - Niedersachsen
+03357030 - Kirchtimke - Rotenburg (Wümme) - Niedersachsen
+03357031 - Kirchwalsede - Rotenburg (Wümme) - Niedersachsen
+03357033 - Lauenbrück - Rotenburg (Wümme) - Niedersachsen
+03357034 - Lengenbostel - Rotenburg (Wümme) - Niedersachsen
+03357035 - Oerel - Rotenburg (Wümme) - Niedersachsen
+03357036 - Ostereistedt - Rotenburg (Wümme) - Niedersachsen
+03357037 - Reeßum - Rotenburg (Wümme) - Niedersachsen
+03357038 - Rhade - Rotenburg (Wümme) - Niedersachsen
+03357040 - Sandbostel - Rotenburg (Wümme) - Niedersachsen
+03357041 - Scheeßel - Rotenburg (Wümme) - Niedersachsen
+03357042 - Seedorf - Rotenburg (Wümme) - Niedersachsen
+03357043 - Selsingen - Rotenburg (Wümme) - Niedersachsen
+03357044 - Sittensen - Rotenburg (Wümme) - Niedersachsen
+03357045 - Sottrum - Rotenburg (Wümme) - Niedersachsen
+03357046 - Stemmen - Rotenburg (Wümme) - Niedersachsen
+03357047 - Tarmstedt - Rotenburg (Wümme) - Niedersachsen
+03357048 - Tiste - Rotenburg (Wümme) - Niedersachsen
+03357049 - Vahlde - Rotenburg (Wümme) - Niedersachsen
+03357050 - Vierden - Rotenburg (Wümme) - Niedersachsen
+03357052 - Vorwerk - Rotenburg (Wümme) - Niedersachsen
+03357053 - Westertimke - Rotenburg (Wümme) - Niedersachsen
+03357054 - Westerwalsede - Rotenburg (Wümme) - Niedersachsen
+03357055 - Wilstedt - Rotenburg (Wümme) - Niedersachsen
+03357056 - Wohnste - Rotenburg (Wümme) - Niedersachsen
+03359001 - Agathenburg - Stade - Niedersachsen
+03359002 - Ahlerstedt - Stade - Niedersachsen
+03359004 - Balje - Stade - Niedersachsen
+03359005 - Bargstedt - Stade - Niedersachsen
+03359006 - Beckdorf - Stade - Niedersachsen
+03359007 - Bliedersdorf - Stade - Niedersachsen
+03359008 - Brest - Stade - Niedersachsen
+03359009 - Burweg - Stade - Niedersachsen
+03359011 - Deinste - Stade - Niedersachsen
+03359012 - Dollern - Stade - Niedersachsen
+03359013 - Drochtersen - Stade - Niedersachsen
+03359014 - Düdenbüttel - Stade - Niedersachsen
+03359015 - Engelschoff - Stade - Niedersachsen
+03359016 - Estorf - Stade - Niedersachsen
+03359017 - Fredenbeck - Stade - Niedersachsen
+03359018 - Freiburg (Elbe), Flecken - Stade - Niedersachsen
+03359019 - Großenwörden - Stade - Niedersachsen
+03359020 - Grünendeich - Stade - Niedersachsen
+03359021 - Guderhandviertel - Stade - Niedersachsen
+03359022 - Hammah - Stade - Niedersachsen
+03359023 - Harsefeld, Flecken - Stade - Niedersachsen
+03359024 - Heinbockel - Stade - Niedersachsen
+03359025 - Himmelpforten - Stade - Niedersachsen
+03359026 - Hollern-Twielenfleth - Stade - Niedersachsen
+03359027 - Horneburg, Flecken - Stade - Niedersachsen
+03359028 - Jork - Stade - Niedersachsen
+03359029 - Kranenburg - Stade - Niedersachsen
+03359030 - Krummendeich - Stade - Niedersachsen
+03359031 - Kutenholz - Stade - Niedersachsen
+03359032 - Mittelnkirchen - Stade - Niedersachsen
+03359034 - Nottensdorf - Stade - Niedersachsen
+03359035 - Oederquart - Stade - Niedersachsen
+03359036 - Oldendorf - Stade - Niedersachsen
+03359037 - Sauensiek - Stade - Niedersachsen
+03359039 - Steinkirchen - Stade - Niedersachsen
+03359040 - Wischhafen - Stade - Niedersachsen
+03460001 - Bakum - Vechta - Niedersachsen
+03460003 - Dinklage, Stadt - Vechta - Niedersachsen
+03460004 - Goldenstedt - Vechta - Niedersachsen
+03460005 - Holdorf - Vechta - Niedersachsen
+03460006 - Lohne (Oldenburg), Stadt - Vechta - Niedersachsen
+03460007 - Neuenkirchen-Vörden - Vechta - Niedersachsen
+03460008 - Steinfeld (Oldenburg) - Vechta - Niedersachsen
+03460009 - Vechta, Stadt - Vechta - Niedersachsen
+03460010 - Visbek - Vechta - Niedersachsen
+03361002 - Blender - Verden - Niedersachsen
+03361005 - Kirchlinteln - Verden - Niedersachsen
+03361006 - Langwedel, Flecken - Verden - Niedersachsen
+03361008 - Ottersberg, Flecken - Verden - Niedersachsen
+03361013 - Thedinghausen - Verden - Niedersachsen
+03461001 - Berne - Wesermarsch - Niedersachsen
+03461002 - Brake (Unterweser), Stadt - Wesermarsch - Niedersachsen
+03461003 - Butjadingen - Wesermarsch - Niedersachsen
+03461004 - Elsfleth, Stadt - Wesermarsch - Niedersachsen
+03461005 - Jade - Wesermarsch - Niedersachsen
+03461006 - Lemwerder - Wesermarsch - Niedersachsen
+03461007 - Nordenham, Stadt - Wesermarsch - Niedersachsen
+03461008 - Ovelgönne - Wesermarsch - Niedersachsen
+03461009 - Stadland - Wesermarsch - Niedersachsen
+03462001 - Blomberg - Wittmund - Niedersachsen
+03462002 - Dunum - Wittmund - Niedersachsen
+03462003 - Esens, Stadt - Wittmund - Niedersachsen
+03462004 - Eversmeer - Wittmund - Niedersachsen
+03462005 - Friedeburg - Wittmund - Niedersachsen
+03462006 - Holtgast - Wittmund - Niedersachsen
+03462007 - Langeoog - Wittmund - Niedersachsen
+03462008 - Moorweg - Wittmund - Niedersachsen
+03462009 - Nenndorf - Wittmund - Niedersachsen
+03462010 - Neuharlingersiel - Wittmund - Niedersachsen
+03462011 - Neuschoo - Wittmund - Niedersachsen
+03462012 - Ochtersum - Wittmund - Niedersachsen
+03462013 - Schweindorf - Wittmund - Niedersachsen
+03462014 - Spiekeroog - Wittmund - Niedersachsen
+03462015 - Stedesdorf - Wittmund - Niedersachsen
+03462016 - Utarp - Wittmund - Niedersachsen
+03462017 - Werdum - Wittmund - Niedersachsen
+03462018 - Westerholt - Wittmund - Niedersachsen
+03462019 - Wittmund, Stadt - Wittmund - Niedersachsen

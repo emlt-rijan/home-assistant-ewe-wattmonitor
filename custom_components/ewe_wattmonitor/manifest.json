@@ -1,0 +1,13 @@
+{
+  "domain": "ewe_wattmonitor",
+  "name": "EWE WattMonitor",
+  "codeowners": ["@emlt-rijan"],
+  "config_flow": true,
+  "documentation": "https://github.com/emlt-rijan/home-assistant-ewe-wattmonitor",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/emlt-rijan/home-assistant-ewe-wattmonitor/issues",
+  "requirements": [],
+  "version": "0.1.0"
+}
+

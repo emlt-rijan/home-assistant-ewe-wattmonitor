@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 256" role="img" aria-label="EWE WattMonitor">
+  <rect width="800" height="256" rx="36" fill="#ffffff"/>
+  <image href="icon.png" x="34" y="28" width="200" height="200" preserveAspectRatio="xMidYMid meet"/>
+  <text x="258" y="114" fill="#1d3b53" font-family="Open Sans, Arial, sans-serif" font-size="42" font-weight="700">EWE WattMonitor</text>
+  <text x="260" y="158" fill="#4f6b7a" font-family="Open Sans, Arial, sans-serif" font-size="20" font-weight="600">Energie- und Wetterdaten für Home Assistant</text>
+  <path d="M262 184h276" stroke="#00a6b8" stroke-width="6" stroke-linecap="round"/>
+</svg>

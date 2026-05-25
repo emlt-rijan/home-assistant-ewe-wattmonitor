@@ -1,0 +1,48 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Gemeinde suchen",
+        "description": "Suche nach Gemeinde, Landkreis oder Gemeindeschlüssel.",
+        "data": {
+          "name": "Name",
+          "search": "Suchbegriff"
+        }
+      },
+      "select": {
+        "title": "Gemeinde auswählen",
+        "description": "Wähle die passende Gemeinde aus den Suchergebnissen aus.",
+        "data": {
+          "municipality_key": "Gemeindeschlüssel"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Verbindung zur EWE-WattMonitor-API fehlgeschlagen.",
+      "no_results": "Keine unterstützte WattMonitor-Gemeinde gefunden.",
+      "not_found": "Die EWE-WattMonitor-API liefert für diesen Gemeindeschlüssel keine Daten.",
+      "unsupported_municipality": "Dieser Gemeindeschlüssel ist in der mitgelieferten Liste der unterstützten Gemeinden nicht enthalten."
+    },
+    "abort": {
+      "already_configured": "Diese Gemeinde ist bereits eingerichtet."
+    }
+  },
+  "entity": {
+    "sensor": {
+      "consumption": { "name": "Verbrauch" },
+      "generation": { "name": "Erzeugung" },
+      "balance": { "name": "Saldo" },
+      "solar_generation": { "name": "PV-Erzeugung" },
+      "wind_generation": { "name": "Wind-Erzeugung" },
+      "biomass_generation": { "name": "Biomasse-Erzeugung" },
+      "hydro_generation": { "name": "Wasser-Erzeugung" },
+      "other_generation": { "name": "Sonstige Erzeugung" },
+      "renewable_percentage": { "name": "Anteil erneuerbar" },
+      "temperature": { "name": "Temperatur" },
+      "wind_speed": { "name": "Windgeschwindigkeit" },
+      "wind_direction": { "name": "Windrichtung" },
+      "cloud_coverage": { "name": "Bewölkung" },
+      "precipitation": { "name": "Niederschlag" }
+    }
+  }
+}
