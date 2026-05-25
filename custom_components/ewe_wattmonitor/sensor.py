@@ -21,6 +21,7 @@ from .const import (
     ATTR_LAST_UPDATE,
     ATTR_MUNICIPALITY_KEY,
     ATTR_MUNICIPALITY_NAME,
+    ATTRIBUTION,
     CONF_MUNICIPALITY_KEY,
     CONF_MUNICIPALITY_NAME,
     DOMAIN,
@@ -186,6 +187,7 @@ async def async_setup_entry(
 class EweWattMonitorSensor(CoordinatorEntity[EweWattMonitorCoordinator], SensorEntity):
     """Representation of an EWE WattMonitor sensor."""
 
+    _attr_attribution = ATTRIBUTION
     entity_description: EweWattMonitorSensorEntityDescription
     _attr_has_entity_name = True
 

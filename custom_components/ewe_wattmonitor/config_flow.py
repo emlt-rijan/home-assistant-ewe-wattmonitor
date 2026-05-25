@@ -8,8 +8,14 @@ import voluptuous as vol
 
 from homeassistant import config_entries
 from homeassistant.const import CONF_NAME
+from homeassistant.helpers.aiohttp_client import async_get_clientsession
 from homeassistant.helpers import selector
 
+from .api import (
+    EweWattMonitorClient,
+    EweWattMonitorError,
+    EweWattMonitorNotFoundError,
+)
 from .const import CONF_MUNICIPALITY_KEY, CONF_MUNICIPALITY_NAME, DOMAIN
 from .municipalities import (
     load_municipalities,
@@ -78,18 +84,18 @@ class EweWattMonitorConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
             if municipality is None:
                 errors[CONF_MUNICIPALITY_KEY] = "unsupported_municipality"
             else:
-                await self.async_set_unique_id(municipality_key)
-                self._abort_if_unique_id_configured()
-
-                title = self._entry_name or municipality_label(municipality)
-                return self.async_create_entry(
-                    title=title,
-                    data={
-                        CONF_NAME: title,
-                        CONF_MUNICIPALITY_KEY: municipality_key,
-                        CONF_MUNICIPALITY_NAME: municipality["name"],
-                    },
-                )
+                client = EweWattMonitorClient(async_get_clientsession(self.hass))
+                try:
+                    await client.async_get_data(municipality_key, municipality["name"])
+                except EweWattMonitorNotFoundError:
+                    errors[CONF_MUNICIPALITY_KEY] = "not_found"
+                except EweWattMonitorError:
+                    errors[CONF_MUNICIPALITY_KEY] = "cannot_connect"
+                else:
+                    return await self._async_create_municipality_entry(
+                        municipality_key,
+                        municipality,
+                    )
 
         data_schema = vol.Schema(
             {
@@ -108,4 +114,23 @@ class EweWattMonitorConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
             step_id="select",
             data_schema=data_schema,
             errors=errors,
+        )
+
+    async def _async_create_municipality_entry(
+        self,
+        municipality_key: str,
+        municipality: dict[str, str],
+    ) -> config_entries.FlowResult:
+        """Create the config entry for a selected municipality."""
+        await self.async_set_unique_id(municipality_key)
+        self._abort_if_unique_id_configured()
+
+        title = self._entry_name or municipality_label(municipality)
+        return self.async_create_entry(
+            title=title,
+            data={
+                CONF_NAME: title,
+                CONF_MUNICIPALITY_KEY: municipality_key,
+                CONF_MUNICIPALITY_NAME: municipality["name"],
+            },
         )
