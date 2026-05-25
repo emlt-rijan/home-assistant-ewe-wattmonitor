@@ -34,6 +34,9 @@ class EweWattMonitorConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
         errors: dict[str, str] = {}
 
         if user_input is not None:
+            if CONF_SEARCH not in user_input and CONF_MUNICIPALITY_KEY in user_input:
+                return await self.async_step_select(user_input)
+
             self._entry_name = str(user_input.get(CONF_NAME) or "").strip() or None
             search = str(user_input[CONF_SEARCH]).strip()
             options = await self.hass.async_add_executor_job(
@@ -53,7 +56,7 @@ class EweWattMonitorConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
             }
         )
         return self.async_show_form(
-            step_id="select",
+            step_id="user",
             data_schema=data_schema,
             errors=errors,
         )
@@ -65,6 +68,9 @@ class EweWattMonitorConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
         errors: dict[str, str] = {}
 
         if user_input is not None:
+            if CONF_MUNICIPALITY_KEY not in user_input and CONF_SEARCH in user_input:
+                return await self.async_step_user(user_input)
+
             municipality_key = str(user_input[CONF_MUNICIPALITY_KEY]).strip()
             municipalities = await self.hass.async_add_executor_job(load_municipalities)
             municipality = municipalities.get(municipality_key)
@@ -99,7 +105,7 @@ class EweWattMonitorConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
             }
         )
         return self.async_show_form(
-            step_id="user",
+            step_id="select",
             data_schema=data_schema,
             errors=errors,
         )
