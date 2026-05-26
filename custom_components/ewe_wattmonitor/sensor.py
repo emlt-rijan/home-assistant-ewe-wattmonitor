@@ -14,6 +14,7 @@ from homeassistant.components.sensor import (
 from homeassistant.config_entries import ConfigEntry
 from homeassistant.const import CONF_NAME, PERCENTAGE, UnitOfPower, UnitOfTemperature
 from homeassistant.core import HomeAssistant
+from homeassistant.helpers.device_registry import DeviceInfo
 from homeassistant.helpers.entity_platform import AddEntitiesCallback
 from homeassistant.helpers.update_coordinator import CoordinatorEntity
 
@@ -202,13 +203,18 @@ class EweWattMonitorSensor(CoordinatorEntity[EweWattMonitorCoordinator], SensorE
         self.entity_description = description
         self._entry = entry
         self._attr_unique_id = f"{entry.data[CONF_MUNICIPALITY_KEY]}_{description.key}"
-        self._attr_device_info = {
-            "identifiers": {(DOMAIN, entry.data[CONF_MUNICIPALITY_KEY])},
-            "name": entry.data.get(CONF_NAME),
-            "manufacturer": "EWE NETZ",
-            "model": "WattMonitor",
-            "configuration_url": "https://wattmonitor.ewe-netz.de/",
-        }
+        self._attr_device_info = DeviceInfo(
+            identifiers={(DOMAIN, entry.data[CONF_MUNICIPALITY_KEY])},
+            name=entry.data.get(CONF_NAME),
+            manufacturer="EWE NETZ",
+            model="WattMonitor",
+            configuration_url="https://wattmonitor.ewe-netz.de/",
+        )
+
+    @property
+    def available(self) -> bool:
+        """Return True if the coordinator has current data."""
+        return super().available and self.coordinator.data is not None
 
     @property
     def native_value(self) -> float | int | str | None:

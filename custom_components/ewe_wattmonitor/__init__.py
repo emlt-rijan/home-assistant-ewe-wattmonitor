@@ -13,8 +13,12 @@ from .coordinator import EweWattMonitorCoordinator
 
 PLATFORMS = [Platform.SENSOR]
 
+type EweWattMonitorConfigEntry = ConfigEntry[EweWattMonitorCoordinator]
 
-async def async_setup_entry(hass: HomeAssistant, entry: ConfigEntry) -> bool:
+
+async def async_setup_entry(
+    hass: HomeAssistant, entry: EweWattMonitorConfigEntry
+) -> bool:
     """Set up EWE WattMonitor from a config entry."""
     client = EweWattMonitorClient(async_get_clientsession(hass))
     coordinator = EweWattMonitorCoordinator(
@@ -30,6 +34,8 @@ async def async_setup_entry(hass: HomeAssistant, entry: ConfigEntry) -> bool:
     return True
 
 
-async def async_unload_entry(hass: HomeAssistant, entry: ConfigEntry) -> bool:
+async def async_unload_entry(
+    hass: HomeAssistant, entry: EweWattMonitorConfigEntry
+) -> bool:
     """Unload a config entry."""
     return await hass.config_entries.async_unload_platforms(entry, PLATFORMS)

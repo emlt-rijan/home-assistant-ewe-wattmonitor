@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import logging
 from typing import Any
 
 import voluptuous as vol
@@ -24,6 +25,8 @@ from .municipalities import (
 )
 
 CONF_SEARCH = "search"
+
+_LOGGER = logging.getLogger(__name__)
 
 
 class EweWattMonitorConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
@@ -84,6 +87,9 @@ class EweWattMonitorConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
             if municipality is None:
                 errors[CONF_MUNICIPALITY_KEY] = "unsupported_municipality"
             else:
+                await self.async_set_unique_id(municipality_key)
+                self._abort_if_unique_id_configured()
+
                 client = EweWattMonitorClient(async_get_clientsession(self.hass))
                 try:
                     await client.async_get_data(municipality_key, municipality["name"])
@@ -91,6 +97,9 @@ class EweWattMonitorConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
                     errors[CONF_MUNICIPALITY_KEY] = "not_found"
                 except EweWattMonitorError:
                     errors[CONF_MUNICIPALITY_KEY] = "cannot_connect"
+                except Exception:  # noqa: BLE001
+                    _LOGGER.exception("Unexpected exception validating municipality")
+                    errors[CONF_MUNICIPALITY_KEY] = "unknown"
                 else:
                     return await self._async_create_municipality_entry(
                         municipality_key,
@@ -122,9 +131,6 @@ class EweWattMonitorConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
         municipality: dict[str, str],
     ) -> config_entries.FlowResult:
         """Create the config entry for a selected municipality."""
-        await self.async_set_unique_id(municipality_key)
-        self._abort_if_unique_id_configured()
-
         title = self._entry_name or municipality_label(municipality)
         return self.async_create_entry(
             title=title,

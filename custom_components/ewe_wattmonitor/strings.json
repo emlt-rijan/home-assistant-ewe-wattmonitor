@@ -21,7 +21,8 @@
       "cannot_connect": "Verbindung zur EWE-WattMonitor-API fehlgeschlagen.",
       "no_results": "Keine unterstützte WattMonitor-Gemeinde gefunden.",
       "not_found": "Die EWE-WattMonitor-API liefert für diesen Gemeindeschlüssel keine Daten.",
-      "unsupported_municipality": "Dieser Gemeindeschlüssel ist in der mitgelieferten Liste der unterstützten Gemeinden nicht enthalten."
+      "unsupported_municipality": "Dieser Gemeindeschlüssel ist in der mitgelieferten Liste der unterstützten Gemeinden nicht enthalten.",
+      "unknown": "Unerwarteter Fehler."
     },
     "abort": {
       "already_configured": "Diese Gemeinde ist bereits eingerichtet."
