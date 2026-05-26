@@ -2,18 +2,10 @@
   "config": {
     "step": {
       "user": {
-        "title": "Gemeinde suchen",
-        "description": "Suche nach Gemeinde, Landkreis oder Gemeindeschlüssel.",
-        "data": {
-          "name": "Name",
-          "search": "Suchbegriff"
-        }
-      },
-      "select": {
         "title": "Gemeinde auswählen",
-        "description": "Wähle die passende Gemeinde aus den Suchergebnissen aus.",
+        "description": "Wähle deine Gemeinde aus der Liste der unterstützten WattMonitor-Gemeinden aus.",
         "data": {
-          "municipality_key": "Gemeindeschlüssel"
+          "municipality_key": "Gemeinde"
         }
       }
     },
