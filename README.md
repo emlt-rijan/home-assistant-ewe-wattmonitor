@@ -10,13 +10,13 @@ Die Integration ist HACS-kompatibel und wird über die Home-Assistant-Oberfläch
 
 ## Status
 
-Version 0.1.10 ist eine erste veröffentlichbare Version. Die Integration nutzt die öffentlich erreichbare API des WattMonitors.
+Version 0.1.0 ist die erste konsolidierte veröffentlichte Version. Die Integration nutzt die öffentlich erreichbare API des WattMonitors.
 
 ## Disclaimer
 
 Dieses Projekt ist ein privates, inoffizielles Open-Source-Projekt und steht in keiner Verbindung zu EWE NETZ, EWE AG oder verbundenen Unternehmen. Es ist kein offizielles Produkt von EWE NETZ und wird weder von EWE NETZ noch von EWE AG unterstützt, geprüft oder betrieben.
 
-Das Projekt nutzt ausschließlich öffentlich zugängliche Datenquellen des WattMonitors und benötigt keine persönlichen EWE-Zugangsdaten. Es werden keine Marken, Logos oder sonstigen geschützten Assets von EWE NETZ oder EWE AG verwendet; Marken- und Unternehmensnamen werden nur beschreibend zur Einordnung der Datenquelle genannt.
+Das Projekt nutzt ausschließlich öffentlich zugängliche Datenquellen des WattMonitors und benötigt keine persönlichen EWE-Zugangsdaten. Es werden keine Logos oder sonstigen geschützten grafischen Assets von EWE NETZ oder EWE AG verwendet; Marken- und Unternehmensnamen werden nur beschreibend zur Einordnung der Datenquelle genannt.
 
 ## Unterstützte Gemeinden
 
