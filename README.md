@@ -10,7 +10,7 @@ Die Integration ist HACS-kompatibel und wird über die Home-Assistant-Oberfläch
 
 ## Status
 
-Version 0.1.0 ist die erste konsolidierte veröffentlichte Version. Die Integration nutzt die öffentlich erreichbare API des WattMonitors.
+Version 0.1.1 aktualisiert die geprüfte Gemeindeliste. Die Integration nutzt die öffentlich erreichbare API des WattMonitors.
 
 ## Disclaimer
 
@@ -22,7 +22,7 @@ Das Projekt nutzt ausschließlich öffentlich zugängliche Datenquellen des Watt
 
 Die Integration enthält eine geprüfte Liste von Gemeinden, für die die WattMonitor-API Daten liefert. Die Liste wird aus amtlichen Gemeindeschlüsseln aufgebaut und gegen die öffentlichen WattMonitor-Gemeinderouten validiert.
 
-Aktuell unterstützte Gemeinden: 304 im EWE-NETZ-Gebiet in Niedersachsen. Die vollständige Liste liegt in [supported_municipalities.txt](supported_municipalities.txt).
+Aktuell unterstützte Gemeinden: 306 im EWE-NETZ-Gebiet in Niedersachsen. Die vollständige Liste liegt in [supported_municipalities.txt](supported_municipalities.txt).
 
 Die EWE-Stromgebiete für Vertriebstarife sind breiter als der öffentliche WattMonitor. Nicht jeder Ort, an dem EWE Stromtarife anbietet, hat auch eine WattMonitor-Gemeindeseite.
 

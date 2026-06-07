@@ -1,7 +1,7 @@
 {
   "source": "wattmonitor.ewe-netz.de municipality routes plus digineo/gemeindeverzeichnis metadata",
-  "validated_at": "2026-05-25T18:14:11Z",
-  "count": 304,
+  "validated_at": "2026-06-07T14:43:18Z",
+  "count": 306,
   "municipalities": [
     {
       "key": "03451001",
@@ -319,9 +319,23 @@
       "state": "Niedersachsen"
     },
     {
+      "key": "03352063",
+      "slug": "cadenberge",
+      "name": "Cadenberge",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
       "key": "03352011",
       "slug": "cuxhaven",
       "name": "Cuxhaven, Stadt",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352062",
+      "slug": "geestland",
+      "name": "Geestland",
       "county": "Cuxhaven",
       "state": "Niedersachsen"
     },

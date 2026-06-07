@@ -1,6 +1,6 @@
 # Unterstützte Gemeinden für EWE WattMonitor
 
-Anzahl: 304
+Anzahl: 306
 
 Gebiet: EWE-NETZ-Gebiet in Niedersachsen
 
@@ -52,7 +52,9 @@ Format: Gemeindeschlüssel - Gemeinde - Landkreis - Bundesland
 03352004 - Belum - Cuxhaven - Niedersachsen
 03352059 - Beverstedt - Cuxhaven - Niedersachsen
 03352008 - Bülkau - Cuxhaven - Niedersachsen
+03352063 - Cadenberge - Cuxhaven - Niedersachsen
 03352011 - Cuxhaven, Stadt - Cuxhaven - Niedersachsen
+03352062 - Geestland - Cuxhaven - Niedersachsen
 03352020 - Hechthausen - Cuxhaven - Niedersachsen
 03352022 - Hemmoor, Stadt - Cuxhaven - Niedersachsen
 03352024 - Hollnseth - Cuxhaven - Niedersachsen
