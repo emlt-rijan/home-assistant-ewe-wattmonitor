@@ -1,7 +1,7 @@
 {
   "source": "wattmonitor.ewe-netz.de municipality routes plus digineo/gemeindeverzeichnis metadata",
-  "validated_at": "2026-06-07T14:43:18Z",
-  "count": 306,
+  "validated_at": "2026-07-05T00:00:00Z",
+  "count": 355,
   "municipalities": [
     {
       "key": "03451001",
@@ -2144,6 +2144,349 @@
       "name": "Wittmund, Stadt",
       "county": "Wittmund",
       "state": "Niedersachsen"
+    },
+    {
+      "key": "02000000",
+      "slug": "hamburg",
+      "name": "Hamburg, Freie und Hansestadt",
+      "county": "Hamburg, Freie und Hansestadt",
+      "state": "Hamburg"
+    },
+    {
+      "key": "03251033",
+      "slug": "schwarme",
+      "name": "Schwarme",
+      "county": "Diepholz",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03251037",
+      "slug": "stuhr",
+      "name": "Stuhr",
+      "county": "Diepholz",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352038",
+      "slug": "neuenkirchen",
+      "name": "Neuenkirchen",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03352042",
+      "slug": "oberndorf",
+      "name": "Oberndorf",
+      "county": "Cuxhaven",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353002",
+      "slug": "asendorf",
+      "name": "Asendorf",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353005",
+      "slug": "buchholz-in-der-nordheide",
+      "name": "Buchholz in der Nordheide, Stadt",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353006",
+      "slug": "dohren",
+      "name": "Dohren",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353010",
+      "slug": "eyendorf",
+      "name": "Eyendorf",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353012",
+      "slug": "garstedt",
+      "name": "Garstedt",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353013",
+      "slug": "goedenstorf",
+      "name": "Gödenstorf",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353034",
+      "slug": "toppenstedt",
+      "name": "Toppenstedt",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03353040",
+      "slug": "winsen-luhe",
+      "name": "Winsen (Luhe), Stadt",
+      "county": "Harburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03356005",
+      "slug": "lilienthal",
+      "name": "Lilienthal",
+      "county": "Osterholz",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03356007",
+      "slug": "osterholz-scharmbeck",
+      "name": "Osterholz-Scharmbeck, Stadt",
+      "county": "Osterholz",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03356008",
+      "slug": "ritterhude",
+      "name": "Ritterhude",
+      "county": "Osterholz",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357017",
+      "slug": "gross-meckelsen",
+      "name": "Groß Meckelsen",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357032",
+      "slug": "klein-meckelsen",
+      "name": "Klein Meckelsen",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357039",
+      "slug": "rotenburg-wuemme",
+      "name": "Rotenburg (Wümme), Stadt",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357051",
+      "slug": "visselhoevede",
+      "name": "Visselhövede, Stadt",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03357057",
+      "slug": "zeven",
+      "name": "Zeven, Stadt",
+      "county": "Rotenburg (Wümme)",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03358002",
+      "slug": "bispingen",
+      "name": "Bispingen",
+      "county": "Heidekreis",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03358016",
+      "slug": "munster",
+      "name": "Munster, Stadt",
+      "county": "Heidekreis",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03358017",
+      "slug": "neuenkirchen",
+      "name": "Neuenkirchen",
+      "county": "Heidekreis",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03358019",
+      "slug": "schneverdingen",
+      "name": "Schneverdingen, Stadt",
+      "county": "Heidekreis",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03358021",
+      "slug": "soltau",
+      "name": "Soltau, Stadt",
+      "county": "Heidekreis",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359003",
+      "slug": "apensen",
+      "name": "Apensen",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359010",
+      "slug": "buxtehude",
+      "name": "Buxtehude, Stadt",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359033",
+      "slug": "neuenkirchen",
+      "name": "Neuenkirchen",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03359038",
+      "slug": "stade",
+      "name": "Stade, Hansestadt",
+      "county": "Stade",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03361001",
+      "slug": "achim",
+      "name": "Achim, Stadt",
+      "county": "Verden",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03361003",
+      "slug": "doerverden",
+      "name": "Dörverden",
+      "county": "Verden",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03361009",
+      "slug": "oyten",
+      "name": "Oyten",
+      "county": "Verden",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03361012",
+      "slug": "verden-aller",
+      "name": "Verden (Aller), Stadt",
+      "county": "Verden",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03405000",
+      "slug": "wilhelmshaven",
+      "name": "Wilhelmshaven, Stadt",
+      "county": "Wilhelmshaven, Stadt",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03451002",
+      "slug": "bad-zwischenahn",
+      "name": "Bad Zwischenahn",
+      "county": "Ammerland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03452020",
+      "slug": "norderney",
+      "name": "Norderney, Stadt",
+      "county": "Aurich",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454009",
+      "slug": "dohren",
+      "name": "Dohren",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454015",
+      "slug": "gersten",
+      "name": "Gersten",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454016",
+      "slug": "gross-berssen",
+      "name": "Groß Berßen",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03454024",
+      "slug": "klein-berssen",
+      "name": "Klein Berßen",
+      "county": "Emsland",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03457002",
+      "slug": "borkum",
+      "name": "Borkum, Stadt",
+      "county": "Leer",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03458006",
+      "slug": "gross-ippener",
+      "name": "Groß Ippener",
+      "county": "Oldenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03458012",
+      "slug": "prinzhoefte",
+      "name": "Prinzhöfte",
+      "county": "Oldenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03458015",
+      "slug": "winkelsett",
+      "name": "Winkelsett",
+      "county": "Oldenburg",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03459018",
+      "slug": "gehrde",
+      "name": "Gehrde",
+      "county": "Osnabrück",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "03460002",
+      "slug": "damme",
+      "name": "Damme, Stadt",
+      "county": "Vechta",
+      "state": "Niedersachsen"
+    },
+    {
+      "key": "04011000",
+      "slug": "bremen",
+      "name": "Bremen, Stadt",
+      "county": "Bremen, Stadt",
+      "state": "Bremen"
+    },
+    {
+      "key": "04012000",
+      "slug": "bremerhaven",
+      "name": "Bremerhaven, Stadt",
+      "county": "Bremerhaven, Stadt",
+      "state": "Bremen"
     }
   ]
 }

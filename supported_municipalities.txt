@@ -1,8 +1,8 @@
 # Unterstützte Gemeinden für EWE WattMonitor
 
-Anzahl: 306
+Anzahl: 355
 
-Gebiet: EWE-NETZ-Gebiet in Niedersachsen
+Gebiet: EWE-NETZ-Gebiet (Niedersachsen, Bremen, Hamburg)
 
 Format: Gemeindeschlüssel - Gemeinde - Landkreis - Bundesland
 
@@ -313,3 +313,52 @@ Format: Gemeindeschlüssel - Gemeinde - Landkreis - Bundesland
 03462017 - Werdum - Wittmund - Niedersachsen
 03462018 - Westerholt - Wittmund - Niedersachsen
 03462019 - Wittmund, Stadt - Wittmund - Niedersachsen
+02000000 - Hamburg, Freie und Hansestadt - Hamburg, Freie und Hansestadt - Hamburg
+03251033 - Schwarme - Diepholz - Niedersachsen
+03251037 - Stuhr - Diepholz - Niedersachsen
+03352038 - Neuenkirchen - Cuxhaven - Niedersachsen
+03352042 - Oberndorf - Cuxhaven - Niedersachsen
+03353002 - Asendorf - Harburg - Niedersachsen
+03353005 - Buchholz in der Nordheide, Stadt - Harburg - Niedersachsen
+03353006 - Dohren - Harburg - Niedersachsen
+03353010 - Eyendorf - Harburg - Niedersachsen
+03353012 - Garstedt - Harburg - Niedersachsen
+03353013 - Gödenstorf - Harburg - Niedersachsen
+03353034 - Toppenstedt - Harburg - Niedersachsen
+03353040 - Winsen (Luhe), Stadt - Harburg - Niedersachsen
+03356005 - Lilienthal - Osterholz - Niedersachsen
+03356007 - Osterholz-Scharmbeck, Stadt - Osterholz - Niedersachsen
+03356008 - Ritterhude - Osterholz - Niedersachsen
+03357017 - Groß Meckelsen - Rotenburg (Wümme) - Niedersachsen
+03357032 - Klein Meckelsen - Rotenburg (Wümme) - Niedersachsen
+03357039 - Rotenburg (Wümme), Stadt - Rotenburg (Wümme) - Niedersachsen
+03357051 - Visselhövede, Stadt - Rotenburg (Wümme) - Niedersachsen
+03357057 - Zeven, Stadt - Rotenburg (Wümme) - Niedersachsen
+03358002 - Bispingen - Heidekreis - Niedersachsen
+03358016 - Munster, Stadt - Heidekreis - Niedersachsen
+03358017 - Neuenkirchen - Heidekreis - Niedersachsen
+03358019 - Schneverdingen, Stadt - Heidekreis - Niedersachsen
+03358021 - Soltau, Stadt - Heidekreis - Niedersachsen
+03359003 - Apensen - Stade - Niedersachsen
+03359010 - Buxtehude, Stadt - Stade - Niedersachsen
+03359033 - Neuenkirchen - Stade - Niedersachsen
+03359038 - Stade, Hansestadt - Stade - Niedersachsen
+03361001 - Achim, Stadt - Verden - Niedersachsen
+03361003 - Dörverden - Verden - Niedersachsen
+03361009 - Oyten - Verden - Niedersachsen
+03361012 - Verden (Aller), Stadt - Verden - Niedersachsen
+03405000 - Wilhelmshaven, Stadt - Wilhelmshaven, Stadt - Niedersachsen
+03451002 - Bad Zwischenahn - Ammerland - Niedersachsen
+03452020 - Norderney, Stadt - Aurich - Niedersachsen
+03454009 - Dohren - Emsland - Niedersachsen
+03454015 - Gersten - Emsland - Niedersachsen
+03454016 - Groß Berßen - Emsland - Niedersachsen
+03454024 - Klein Berßen - Emsland - Niedersachsen
+03457002 - Borkum, Stadt - Leer - Niedersachsen
+03458006 - Groß Ippener - Oldenburg - Niedersachsen
+03458012 - Prinzhöfte - Oldenburg - Niedersachsen
+03458015 - Winkelsett - Oldenburg - Niedersachsen
+03459018 - Gehrde - Osnabrück - Niedersachsen
+03460002 - Damme, Stadt - Vechta - Niedersachsen
+04011000 - Bremen, Stadt - Bremen, Stadt - Bremen
+04012000 - Bremerhaven, Stadt - Bremerhaven, Stadt - Bremen
