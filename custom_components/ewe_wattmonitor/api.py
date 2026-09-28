@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import logging
 from asyncio import TimeoutError as AsyncioTimeoutError
 from dataclasses import dataclass
 from typing import Any
@@ -9,6 +10,8 @@ from typing import Any
 from aiohttp import ClientError, ClientSession
 
 from .const import API_URL, SET_COOKIE_URL
+
+_LOGGER = logging.getLogger(__name__)
 
 
 class EweWattMonitorError(Exception):
@@ -48,9 +51,10 @@ class EweWattMonitorClient:
             ) as response:
                 response.raise_for_status()
         except (AsyncioTimeoutError, ClientError) as err:
-            raise EweWattMonitorError(
-                f"Could not prepare WattMonitor municipality cookie: {err}"
-            ) from err
+            # The data endpoint no longer depends on this cookie, so a failure
+            # here must not stop the update.
+            _LOGGER.debug("Could not prepare WattMonitor municipality cookie: %s", err)
+            return
 
         self._prepared_municipality_key = municipality_key
 
@@ -63,7 +67,7 @@ class EweWattMonitorClient:
         try:
             async with self.session.post(
                 API_URL,
-                json=municipality_key,
+                json={"municipalityKey": municipality_key},
                 headers={"Accept": "application/json"},
                 timeout=20,
             ) as response:

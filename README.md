@@ -10,7 +10,7 @@ Die Integration ist HACS-kompatibel und wird über die Home-Assistant-Oberfläch
 
 ## Status
 
-Version 0.1.2 erweitert die geprüfte Gemeindeliste auf 355 Gemeinden. Die Integration nutzt die öffentlich erreichbare API des WattMonitors.
+Version 0.1.3 behebt den Datenabruf: Die WattMonitor-API erwartet den Gemeindeschlüssel jetzt als JSON-Objekt (`{"municipalityKey": "..."}`) statt als einfachen JSON-String. Die geprüfte Gemeindeliste umfasst 355 Gemeinden.
 
 ## Disclaimer
 
